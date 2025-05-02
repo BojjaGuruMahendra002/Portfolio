@@ -245,3 +245,6 @@ header .navbar ul li a:hover{
   border: 1px solid #ddd;
   text-align: left;
 }
+.projectsection{
+  background-color: red;
+}
